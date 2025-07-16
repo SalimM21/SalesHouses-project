@@ -166,3 +166,8 @@ X_train, X_test, y_train, y_test = train_test_split(
 print("Train set :", X_train.shape, y_train.shape)
 print("Test set  :", X_test.shape, y_test.shape)
 
+# Entraîner plusieurs modèles :
+# - Régression Linéaire
+# - Random Forest Regressor
+# - SVR (Support Vector Regressor)
+# - Gradient Boosting Regressor
