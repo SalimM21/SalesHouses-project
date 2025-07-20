@@ -11,7 +11,6 @@ L’entreprise souhaite moderniser son offre en lançant un simulateur intellige
 - Évaluation avec MAE, RMSE, R²
 - Sélection et sauvegarde du meilleur modèle
 - Intégration prévue dans une future interface web
-- 
 ---
 
 ## Méthodologie
