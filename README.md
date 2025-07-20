@@ -96,5 +96,5 @@ streamlit run app.py
 - **Issues résolues** : 25+
 - **Tests** : 95% de couverture
 - **Utilisateurs actifs** : 500+
-- 
+
 <div align="center">
